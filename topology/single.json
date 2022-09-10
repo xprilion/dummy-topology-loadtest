@@ -1,0 +1,7 @@
+{
+    "predict1": {
+        "status": true,
+        "load": 9,
+        "port": "9696"
+    }
+}
