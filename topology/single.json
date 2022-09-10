@@ -1,7 +1,7 @@
 {
     "predict1": {
         "status": true,
-        "load": 9,
+        "load": 0,
         "port": "9696"
     }
 }

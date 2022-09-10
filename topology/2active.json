@@ -10,7 +10,7 @@
         "port": "9697"
     },
     "predict3": {
-        "status": true,
+        "status": false,
         "load": 0,
         "port": "9698"
     }
